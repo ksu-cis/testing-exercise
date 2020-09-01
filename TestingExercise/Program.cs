@@ -8,11 +8,11 @@ namespace TestingExercise
         /// <summary>
         /// Runs a single game of "Lobster Pot"
         /// </summary>
-        /// <desription>
+        /// <remarks>
         /// In this game, the player guesses one character at a time
         /// to reveal a secret phrase.  You win if you reveal the 
         /// whole phrase, and lose if you make seven wrong guesses.
-        /// </desription>
+        /// </remarks>
         /// <param name="args"></param>
         static void Main(string[] args)
         {
